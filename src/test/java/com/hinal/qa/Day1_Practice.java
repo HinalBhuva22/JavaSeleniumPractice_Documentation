@@ -85,6 +85,8 @@ public class Day1_Practice  {
 		     System.out.println("Role: Software Quailty Assurance Professional");
 		     System.out.println("Goal: QA Automation Job in germany");
 		     System.out.println("Passionate: AI & Automation in testing");
+		     System.out.println("Testing philpsophy: Testing is an Art");
+		    
 		 
 		
 	}
