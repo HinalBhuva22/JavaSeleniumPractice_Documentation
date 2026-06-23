@@ -3,6 +3,10 @@ package com.hinal.qa;
 public class PolymorphismMain {
 
 	public static void main(String[] args) {
+		
+		// 1 thing have many form 
+		
+		// through overloading we can achieve polymorphism  polymorphism and method overloading, constructor overloading
 
 		
 		Day3Polymorphism poly = new Day3Polymorphism();
